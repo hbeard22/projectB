@@ -1,2 +1,1 @@
-# projectB
-This my first repository for the Merit America Java Program
+# projectB's README
